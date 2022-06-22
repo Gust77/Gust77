@@ -1,5 +1,5 @@
 ### Olá, eu sou Gustavo 😀
-<div align-item="center"><div align-item="center">
+<div align-item="center">
     <a href="https://github.com/Gust77">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gust77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust77&layout=compact&langs_count=7&theme=dark"/>
@@ -10,7 +10,7 @@
     <img align="center" alt="Gust-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gust-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Gust-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="right" alt="Gust-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/98781453?v=4">
+    <img align="right" alt="Gust-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/300/0*Mo2dwX3zS3a3dCsq.jpg">
 </div>
         <hr>
        
