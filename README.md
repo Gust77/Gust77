@@ -10,7 +10,7 @@
     <img align="center" alt="Gust-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gust-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Gust-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="right" alt="Gust-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/300/0*Mo2dwX3zS3a3dCsq.jpg">
+    <img align="right" alt="Gust-pic" height="150" style="border-radius:50px;" src="https://ih1.redbubble.net/image.875111905.4798/fposter,small,wall_texture,product,750x1000.jpg">
 </div>
         <hr>
        
